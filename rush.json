@@ -390,6 +390,33 @@
    */
   "projects": [
     // {
+    //   "packageName": "editor-main",
+    //   "projectFolder": "apps/editor-main"
+    // },
+    {
+      "packageName": "editor-atomic",
+      "projectFolder": "apps/editor-atomic"
+    },
+    {
+      "packageName": "editor-portal",
+      "projectFolder": "apps/editor-portal"
+    },
+    {
+      "packageName": "editor-shim",
+      "projectFolder": "apps/editor-shim"
+    },
+
+    {
+      "packageName": "capital-budgeting-portal",
+      "projectFolder": "apps/capital-budgeting-portal"
+    },
+    {
+      "packageName": "capital-budgeting-shim",
+      "projectFolder": "apps/capital-budgeting-shim"
+    }
+
+    // 
+    // {
     //   /**
     //    * The NPM package name of the project (must match package.json)
     //    */
