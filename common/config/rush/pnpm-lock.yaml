@@ -2,6 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@babel/core': ^7.14.6
+  '@rush-temp/budgeting-main': file:./projects/budgeting-main.tgz
   '@rush-temp/capital-budgeting-portal': file:./projects/capital-budgeting-portal.tgz
   '@rush-temp/capital-budgeting-shim': file:./projects/capital-budgeting-shim.tgz
   '@rush-temp/editor-atomic': file:./projects/editor-atomic.tgz
@@ -31,6 +32,7 @@ specifiers:
 
 dependencies:
   '@babel/core': 7.14.6
+  '@rush-temp/budgeting-main': file:projects/budgeting-main.tgz_@babel+core@7.14.6
   '@rush-temp/capital-budgeting-portal': file:projects/capital-budgeting-portal.tgz_@types+node@12.20.16
   '@rush-temp/capital-budgeting-shim': file:projects/capital-budgeting-shim.tgz_@types+node@12.20.16
   '@rush-temp/editor-atomic': file:projects/editor-atomic.tgz_77f2cd2ed475b9a6bb0b69139b6f8e50
@@ -21426,6 +21428,46 @@ packages:
 
   /zwitch/1.0.5:
     resolution: {integrity: sha512-V50KMwwzqJV0NpZIZFwfOD5/lyny3WlSzRiXgA0G7VUnRlqttta1L6UQIHzd6EuBY/cHGfwTIck7w1yH6Q5zUw==}
+    dev: false
+
+  file:projects/budgeting-main.tgz_@babel+core@7.14.6:
+    resolution: {integrity: sha512-ZqUXzxA0Ir1XhV+ia195L14Ku+WFAzY5Ql47c96ewtpyFkApKyOUG39l8ihZzAmvSmoaYXTMK1Vml1KmRYxWfA==, tarball: file:projects/budgeting-main.tgz}
+    id: file:projects/budgeting-main.tgz
+    name: '@rush-temp/budgeting-main'
+    version: 0.0.0
+    dependencies:
+      '@testing-library/jest-dom': 5.14.1
+      '@testing-library/react': 11.2.7_react-dom@17.0.2+react@17.0.2
+      '@testing-library/user-event': 12.8.3
+      '@types/jest': 26.0.24
+      '@types/node': 12.20.16
+      '@types/react': 17.0.11
+      '@types/react-dom': 17.0.8
+      babel-loader: 8.1.0_4eb3ff6ab5da460b8db96ce83886bb8a
+      react: 17.0.2
+      react-dom: 17.0.2_react@17.0.2
+      react-scripts: 4.0.3_react@17.0.2+typescript@4.3.4
+      typescript: 4.3.4
+      web-vitals: 1.1.2
+      webpack: 4.44.2
+    transitivePeerDependencies:
+      - '@babel/core'
+      - '@testing-library/dom'
+      - '@types/webpack'
+      - bufferutil
+      - canvas
+      - fibers
+      - node-sass
+      - sass
+      - sockjs-client
+      - supports-color
+      - ts-node
+      - type-fest
+      - utf-8-validate
+      - webpack-cli
+      - webpack-command
+      - webpack-hot-middleware
+      - webpack-plugin-serve
     dev: false
 
   file:projects/capital-budgeting-portal.tgz_@types+node@12.20.16:
