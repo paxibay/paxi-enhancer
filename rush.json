@@ -395,24 +395,24 @@
     // },
     {
       "packageName": "editor-atomic",
-      "projectFolder": "apps/editor-atomic"
+      "projectFolder": "packages/editor-atomic"
     },
     {
       "packageName": "editor-portal",
-      "projectFolder": "apps/editor-portal"
+      "projectFolder": "packages/editor-portal"
     },
     {
       "packageName": "editor-shim",
-      "projectFolder": "apps/editor-shim"
+      "projectFolder": "packages/editor-shim"
     },
 
     {
       "packageName": "capital-budgeting-portal",
-      "projectFolder": "apps/capital-budgeting-portal"
+      "projectFolder": "packages/capital-budgeting-portal"
     },
     {
       "packageName": "capital-budgeting-shim",
-      "projectFolder": "apps/capital-budgeting-shim"
+      "projectFolder": "packages/capital-budgeting-shim"
     }
 
     // 
