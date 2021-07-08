@@ -1,0 +1,64 @@
+:root {
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+*,
+::before,
+::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  /* overflow-y: scroll; */
+  /* overflow-x: hidden; */
+}
+
+/* body * + * {
+  margin-top: 1.5em;
+} */
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-roboto, sans-serif) !important;
+}
+
+.header {
+  text-align: center;
+  background-color: #222;
+  height: 160px;
+  padding: 20px;
+  color: white;
+}
+
+@keyframes header-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* body,
+*:not(i) {
+  font-family: 'Roboto' !important;
+} */
