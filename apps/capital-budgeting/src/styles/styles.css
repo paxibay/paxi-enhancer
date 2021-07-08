@@ -1,0 +1,22 @@
+/* Settings: This is where all the global and brand variables stored */
+@import url('./00-settings/settings.css');
+
+/* Tools: This is where all the mixins and functions housed */
+@import url('./01-tools/tools.css');
+
+/* Generic: Ground Zero styles like Normalize.css, global box-sizing rules, go here */
+@import url('./02-generic/generic.css');
+
+/* Elements: Unclassed HTML elements (type selectors) go here */
+@import url('./03-elements/elements.css');
+
+/* Objects: Cosmetic-free design patterns.
+Objects can range from something as simple as a .wrapper element to layout systems. */
+@import url('./04-objects/objects.css');
+
+/* Components: Designed components, chunks of UI, go here */
+@import url('./05-components/components.css');
+
+/* This is the only place where !important declarations will be accepted.
+This is the highest specificity layer includes the most explicit types of rules. */
+@import url('./06-trumps/utilities.css');

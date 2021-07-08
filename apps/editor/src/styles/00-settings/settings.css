@@ -1,0 +1,92 @@
+/* @font-face {
+  font-family: 'Source Sans Pro';
+  src: url(../../font/Source_Sans_Pro/SourceSansPro-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Ailerons';
+  src: url(../../font/Ailerons-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Fira Mono';
+  src: url(../../font/Fira_Mono/FiraMono-Regular.ttf);
+} */
+
+/* Brand Colors and Color Roles */
+:root {
+  /* Brand Colors */
+  --colorPrimary: #ff9617;
+  --colorSecondary: #4078c0;
+  --colorFontsDark: #2c2c2c;
+  --colorFontsMedium: rgba(38, 41, 58, 0.6);
+  --colorFontsLight: #fafafa;
+  --colorLight: #f6f9fa;
+  --colorMedium: #201f2d;
+  --colorDark: #26293a;
+  --colorShadow: rgba(0, 0, 0, 0.4);
+  --colorSeparateMedium: rgba(250, 250, 250, 0.6);
+  --colorSeparateDark: rgba(0, 0, 0, 0.2);
+  --colorListMedium: rgba(38, 41, 58, 0.04);
+
+  --colorDarkblue: #002888;
+  --colorGreen: #43a047;
+  --colorLllgreen: #e8f5e8;
+  --colorLlviolet: #9fa8da;
+  --colorLllviolet: #e8eaf6;
+  --colorbrand-gray: #4a4a4a;
+  --colorlightgray: rgba(189, 189, 189, 0.24);
+  --colortable-border-gray: rgba(0, 0, 0, 0.12);
+  --colordanger-red: #f44336;
+  --colorlightyellow: #fffcdc;
+  --colorinput-border-gray: #d2d2d2;
+  --colorwhite: #ffffff;
+  --colortable-title: rgb(117, 117, 117);
+  --colorHint: #8b9898;
+  --colorError: #f44336;
+
+  --testing: #43a047;
+
+  /* Color Roles */
+  --color-primary: var(--colorDarkblue);
+  --color-secondary: var(--colorGreen);
+  --color-default: var(--colorbrand-gray);
+  --color-text-primary: var(--colorbrand-gray);
+  --color-hint: var(--colorHint);
+  --color-error: var(--colordanger-red);
+}
+
+/* Typography */
+:root {
+  --fontType: 'Source Sans Pro', sans-serif;
+  --fontTypeTitle: 'Ailerons', sans-serif;
+  --fontTypeCode: 'Fira Mono', monospace;
+  --font-mono: 'Courier', monospace;
+  --font-sans: 'Roboto', 'Helvetica', 'Arial', 'Roboto', sans-serif;
+  --font-roboto: 'Roboto';
+
+  /* Typography Roles */
+  --fontRoboto: var(--font-roboto);
+  --fontDefault: var(--fontType);
+}
+
+/* Dimensions */
+:root {
+  --pcFormatBig: 1920px;
+  --pcFormatStandard: 1770px;
+  --pcFormatUltraHD: 1443px;
+  --pcFormatHabitual: 1366px;
+  --pcFormatHD: 1190px;
+  --pcFormatSmall: 1135px;
+  --mobileFormatBig: 860px;
+  --mobileFormatStandard: 640px;
+}
+
+/* Shadows */
+:root {
+  --base-box-shadow: rgba(darken($brand-gray, 20%), 0.2) 0 0 5px;
+  --box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16), 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  --paper-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14),
+    0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+  --button-box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16), 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
