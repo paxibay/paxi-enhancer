@@ -386,12 +386,16 @@
    * Rush does not automatically scan for projects using wildcards, for a few reasons:
    * 1. Depth-first scans are expensive, particularly when tools need to repeatedly collect the list.
    * 2. On a caching CI machine, scans can accidentally pick up files left behind from a previous build.
-   * 3. It's useful to have a centralized inventory of all projects and their important metadata.
+   * 3. It's useful to have a centralized inventory of all projects and their important metadata. 
    */
   "projects": [
     {
       "packageName": "editor-main",
       "projectFolder": "apps/editor"
+    },
+    {
+      "packageName": "budgeting-main",
+      "projectFolder": "apps/capital-budgeting"
     },
     {
       "packageName": "editor-atomic",
