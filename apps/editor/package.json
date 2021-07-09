@@ -17,7 +17,8 @@
     "web-vitals": "^1.0.1",
     "webpack": "4.44.2",
     "babel-loader": "8.1.0",
-    "styled-components": "^5.3.0"
+    "styled-components": "^5.3.0",
+    "react-router-dom": "5.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,7 +27,8 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.11"
+    "@types/styled-components": "^5.1.11",
+    "@types/react-router-dom": "5.1.8"
   },
   "eslintConfig": {
     "extends": [
