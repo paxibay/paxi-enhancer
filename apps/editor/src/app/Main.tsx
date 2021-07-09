@@ -1,10 +1,10 @@
 import * as React from 'react';
-import { Template } from './index';
+import { Routes } from './index';
 
 const Main: React.FC = () => {
   return (
     <React.Fragment>
-     <Template />
+     <Routes />
     </React.Fragment>
   );
 };
