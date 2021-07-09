@@ -4,7 +4,7 @@ import { Routes } from './index';
 const Main: React.FC = () => {
   return (
     <React.Fragment>
-     <Routes />
+      <Routes />
     </React.Fragment>
   );
 };

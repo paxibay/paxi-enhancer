@@ -3,7 +3,7 @@ import React from 'react';
 function Template() {
   return (
     <div>
-     Template aaaa bbbb cccc
+     Template aaaa bbbb
     </div>
   );
 }
