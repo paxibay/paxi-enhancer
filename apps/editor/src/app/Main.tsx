@@ -1,10 +1,11 @@
 import * as React from 'react';
-import { Routes } from './index';
+
+import { Routes } from '.';
 
 const Main: React.FC = () => {
   return (
     <React.Fragment>
-     <Routes />
+      <Routes />
     </React.Fragment>
   );
 };
