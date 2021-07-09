@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
-import {  Template } from '../index';
+import {  Template } from '..';
 
 const Routes: React.FC = () => {
   return (
