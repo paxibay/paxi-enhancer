@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "text_segment_uuid": "b709de36-50bf-4429-97d4-cd660ea0ac3a",
+      "playbook_rules": []
+    },
+    {
+      "text_segment_uuid": "8226fbe5-e111-4816-b853-8b7e43410139",
+      "playbook_rules": []
+    },
+    {
+      "text_segment_uuid": "0e88bc61-78e5-463b-892d-9425e19f0396",
+      "playbook_rules": []
+    },
+    {
+      "text_segment_uuid": "a57236e8-6fa6-494a-80c7-41459c85bc50",
+      "playbook_rules": []
+    },
+    {
+      "text_segment_uuid": "722d4399-12cb-497f-8e29-5f1dc08b0230",
+      "playbook_rules": [
+        {
+          "confirmation_text": [
+            "Approved Confirmation Text",
+            "Secondary Approved Confirmation Text"
+          ],
+          "explanation_text": "Explanation Text",
+          "language_category_id": 1,
+          "language_sub_category_id": 1,
+          "rule_text": "Rule Text",
+          "sequence": 0,
+          "text_segment_uuid": "722d4399-12cb-497f-8e29-5f1dc08b0230",
+          "variant_group_uuid": null,
+          "uuid": "d121a3c4-986a-4f1d-9c9d-25ef71e9fa16"
+        },
+        {
+          "confirmation_text": ["Another Confirmation Text"],
+          "explanation_text": "Conditional Confirmation Text",
+          "language_category_id": 2,
+          "language_sub_category_id": 2,
+          "rule_text": "Different Rule Text",
+          "sequence": 0,
+          "text_segment_uuid": "722d4399-12cb-497f-8e29-5f1dc08b0230",
+          "variant_group_uuid": null,
+          "uuid": "c1968a38-deb2-4089-9018-7a768685ca1d"
+        },
+        {
+          "confirmation_text": ["Yet More Confirmation Text"],
+          "explanation_text": "Yet More Expalantion Text",
+          "language_category_id": 3,
+          "language_sub_category_id": 3,
+          "rule_text": "Escalation To Legal Confirmation Text",
+          "sequence": 0,
+          "text_segment_uuid": null,
+          "variant_group_uuid": "0e99f6e9-e72e-4015-b114-7fb2d6e6bd61",
+          "uuid": "a0b327ec-7ab2-4bc3-a76a-8d0c1cd76ab6"
+        },
+        {
+          "confirmation_text": ["Random Confirmation Text"],
+          "explanation_text": "Random Expalantion Text",
+          "language_category_id": 3,
+          "language_sub_category_id": 4,
+          "rule_text": "Escalation To Operations Confirmation Text",
+          "sequence": 0,
+          "text_segment_uuid": null,
+          "variant_group_uuid": "0e99f6e9-e72e-4015-b114-7fb2d6e6bd61",
+          "uuid": "282416e5-c225-4918-b666-d26e63fe8caf"
+        }
+      ]
+    },
+    {
+      "text_segment_uuid": "ac70c9ab-947e-42d9-9b36-17cdea3c7c02",
+      "playbook_rules": []
+    },
+    {
+      "text_segment_uuid": "243841bd-aec2-4f44-97b8-c5a77278e789",
+      "playbook_rules": []
+    },
+    {
+      "text_segment_uuid": "fe719383-961c-40c4-ac99-f8101558c00e",
+      "playbook_rules": []
+    }
+  ],
+  "language_categories": [
+    {
+      "id": 1,
+      "name": "Accept",
+      "description": "Acceptable",
+      "accept": true,
+      "reject": false,
+      "modify": true,
+      "escalate": true
+    },
+    {
+      "id": 2,
+      "name": "Conditional",
+      "description": "Conditional",
+      "accept": true,
+      "reject": true,
+      "modify": false,
+      "escalate": true
+    },
+    {
+      "id": 3,
+      "name": "Escalate",
+      "description": "Escalation",
+      "accept": false,
+      "reject": true,
+      "modify": false,
+      "escalate": true
+    }
+  ],
+  "language_sub_categories": [
+    { "id": 1, "category_id": 1, "name": "Default", "description": "Default" },
+    { "id": 2, "category_id": 2, "name": "Default", "description": "Default" },
+    {
+      "id": 3,
+      "category_id": 3,
+      "name": "Legal",
+      "description": "Escalate to Legal"
+    },
+    {
+      "id": 4,
+      "category_id": 3,
+      "name": "Legal",
+      "description": "Escalate to Operations"
+    }
+  ]
+}
