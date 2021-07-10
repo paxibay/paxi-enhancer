@@ -1,0 +1,844 @@
+{
+  "templates": [
+    {
+      "id": "b8c49d68-03b3-46f1-a079-0f83e0151573",
+      "name": "CSA",
+      "version": 0,
+      "versionIsPublished": false,
+      "lastSaved": null,
+      "lastPublished": null,
+      "editIsLocked": false,
+      "editLockedBy": null,
+      "blocks": [
+        {
+          "id": "0018fff1-1eab-4fe9-90f1-f3c76e549702",
+          "sequence": 0
+        },
+        {
+          "id": "fd386d15-dd34-4aad-8abe-08ce79722bdd",
+          "sequence": 1
+        },
+        {
+          "id": "a159439b-05af-4d31-a174-5fcd5b2e2d94",
+          "sequence": 2
+        },
+        {
+          "id": "e120e032-9702-4849-baaa-668d4bd33042",
+          "sequence": 3
+        },
+        {
+          "id": "acb64f7d-134c-4425-85ea-bc33f35a9143",
+          "sequence": 4
+        },
+        {
+          "id": "12bfeade-d136-4364-8bbe-290361106d29",
+          "sequence": 5
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "0018fff1-1eab-4fe9-90f1-f3c76e549702",
+          "type": "Paragraph",
+          "properties": {
+            "pStyle": "Title"
+          },
+          "sequence": 0,
+          "ref": {
+            "blockId": "0018fff1-1eab-4fe9-90f1-f3c76e549702"
+          },
+          "revisionCreatedDateTime": "2019-02-26T16:21:59.994000Z",
+          "revisionCreatedBy": 1
+        },
+        {
+          "id": "fd386d15-dd34-4aad-8abe-08ce79722bdd",
+          "type": "Paragraph",
+          "properties": {
+            "pStyle": "Title"
+          },
+          "sequence": 1,
+          "ref": {
+            "blockId": "fd386d15-dd34-4aad-8abe-08ce79722bdd"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:10:07.727000Z",
+          "revisionCreatedBy": 2
+        },
+        {
+          "id": "a159439b-05af-4d31-a174-5fcd5b2e2d94",
+          "type": "Paragraph",
+          "properties": {
+            "pStyle": "Heading1"
+          },
+          "sequence": 2,
+          "ref": {
+            "blockId": "a159439b-05af-4d31-a174-5fcd5b2e2d94"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:10:07.727000Z",
+          "revisionCreatedBy": 2
+        },
+        {
+          "id": "e120e032-9702-4849-baaa-668d4bd33042",
+          "type": "Paragraph",
+          "properties": {
+            "pStyle": "Heading2"
+          },
+          "sequence": 3,
+          "ref": {
+            "blockId": "e120e032-9702-4849-baaa-668d4bd33042"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:10:07.727000Z",
+          "revisionCreatedBy": 2
+        },
+        {
+          "id": "acb64f7d-134c-4425-85ea-bc33f35a9143",
+          "type": "Paragraph",
+          "properties": {
+            "pStyle": "Heading3"
+          },
+          "sequence": 4,
+          "ref": {
+            "blockId": "acb64f7d-134c-4425-85ea-bc33f35a9143"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:10:07.727000Z",
+          "revisionCreatedBy": 2
+        },
+        {
+          "id": "12bfeade-d136-4364-8bbe-290361106d29",
+          "type": "Paragraph",
+          "properties": {
+            "pStyle": "Heading4"
+          },
+          "sequence": 5,
+          "ref": {
+            "blockId": "12bfeade-d136-4364-8bbe-290361106d29"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:10:07.727000Z",
+          "revisionCreatedBy": 2
+        }
+      ],
+      "tables": [],
+      "tableRows": [],
+      "tableCells": [],
+      "textSegments": [
+        {
+          "id": "b709de36-50bf-4429-97d4-cd660ea0ac3a",
+          "type": "TextSegment",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "paragraphId": "0018fff1-1eab-4fe9-90f1-f3c76e549702"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:19:43.608000Z",
+          "revisionCreatedBy": 2,
+          "variantDescription": "Neutral",
+          "variantIsDefault": true,
+          "variantGroup": "c0446c53-3b9d-440b-8e1a-a7de1286a826"
+        },
+        {
+          "id": "8226fbe5-e111-4816-b853-8b7e43410139",
+          "type": "TextSegment",
+          "properties": {},
+          "sequence": 1,
+          "ref": {
+            "paragraphId": "0018fff1-1eab-4fe9-90f1-f3c76e549702"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:19:43.608000Z",
+          "revisionCreatedBy": 2,
+          "variantDescription": "Neutral",
+          "variantIsDefault": true,
+          "variantGroup": "be749339-94e3-4102-8ce3-ed6bcef8778c"
+        },
+        {
+          "id": "0e88bc61-78e5-463b-892d-9425e19f0396",
+          "type": "TextSegment",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "paragraphId": "fd386d15-dd34-4aad-8abe-08ce79722bdd"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:19:43.608000Z",
+          "revisionCreatedBy": 2,
+          "variantDescription": "Neutral",
+          "variantIsDefault": true,
+          "variantGroup": "456fadd8-1c6e-44d9-9f07-ebb2a9196529"
+        },
+        {
+          "id": "a57236e8-6fa6-494a-80c7-41459c85bc50",
+          "type": "TextSegment",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "paragraphId": "a159439b-05af-4d31-a174-5fcd5b2e2d94"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:19:43.608000Z",
+          "revisionCreatedBy": 2,
+          "variantDescription": "Neutral",
+          "variantIsDefault": true,
+          "variantGroup": "09051cc2-7710-4293-ba97-0d54fd3b32ac"
+        },
+        {
+          "id": "722d4399-12cb-497f-8e29-5f1dc08b0230",
+          "type": "TextSegment",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "paragraphId": "e120e032-9702-4849-baaa-668d4bd33042"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:19:43.608000Z",
+          "revisionCreatedBy": 2,
+          "variantDescription": "Neutral",
+          "variantIsDefault": true,
+          "variantGroup": "0e99f6e9-e72e-4015-b114-7fb2d6e6bd61"
+        },
+        {
+          "id": "ac70c9ab-947e-42d9-9b36-17cdea3c7c02",
+          "type": "TextSegment",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "paragraphId": "acb64f7d-134c-4425-85ea-bc33f35a9143"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:19:43.608000Z",
+          "revisionCreatedBy": 2,
+          "variantDescription": "Neutral",
+          "variantIsDefault": true,
+          "variantGroup": "e02d5516-d4f1-4a90-8f67-f96ba665a186"
+        },
+        {
+          "id": "243841bd-aec2-4f44-97b8-c5a77278e789",
+          "type": "TextSegment",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "paragraphId": "12bfeade-d136-4364-8bbe-290361106d29"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:19:43.608000Z",
+          "revisionCreatedBy": 2,
+          "variantDescription": "Neutral",
+          "variantIsDefault": true,
+          "variantGroup": "26b3bca7-178a-4179-aaa4-91ab635cb6a7"
+        },
+        {
+          "id": "fe719383-961c-40c4-ac99-f8101558c00e",
+          "type": "TextSegment",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "paragraphId": "acb64f7d-134c-4425-85ea-bc33f35a9143"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:19:43.608000Z",
+          "revisionCreatedBy": 2,
+          "variantDescription": "Alternatve",
+          "variantIsDefault": false,
+          "variantGroup": "e02d5516-d4f1-4a90-8f67-f96ba665a186"
+        }
+      ],
+      "runs": [
+        {
+          "id": "1ccf08b1-8c41-448b-81bc-e8f22a30aaaa",
+          "type": "Run",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "b709de36-50bf-4429-97d4-cd660ea0ac3a"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:24:57.679000Z",
+          "revisionCreatedBy": 2,
+          "t": "ARTICLE",
+          "variable_id": null,
+          "breakType": null
+        },
+        {
+          "id": "cd5b5399-1a1a-444e-b901-a2dc74836696",
+          "type": "Run",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "8226fbe5-e111-4816-b853-8b7e43410139"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:24:57.679000Z",
+          "revisionCreatedBy": 2,
+          "t": " I",
+          "variable_id": null,
+          "breakType": null
+        },
+        {
+          "id": "11303f49-5615-44dd-b9ce-5a2bd21a4344",
+          "type": "Run",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "0e88bc61-78e5-463b-892d-9425e19f0396"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:24:57.679000Z",
+          "revisionCreatedBy": 2,
+          "t": "NEW ARTICLE TITLE",
+          "variable_id": null,
+          "breakType": null
+        },
+        {
+          "id": "8995c5bb-7dcb-45bf-8218-67e60dce3c54",
+          "type": "Run",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "a57236e8-6fa6-494a-80c7-41459c85bc50"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:24:57.679000Z",
+          "revisionCreatedBy": 2,
+          "t": "Agreement Title",
+          "variable_id": 1,
+          "breakType": null
+        },
+        {
+          "id": "e7c60236-a1a2-4d17-8b34-e761582366af",
+          "type": "Run",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "722d4399-12cb-497f-8e29-5f1dc08b0230"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:24:57.679000Z",
+          "revisionCreatedBy": 2,
+          "t": "This is a description of the contract.",
+          "variable_id": null,
+          "breakType": null
+        },
+        {
+          "id": "3782f136-a117-43bb-aedc-6d8dba0a414d",
+          "type": "Run",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "ac70c9ab-947e-42d9-9b36-17cdea3c7c02"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:24:57.679000Z",
+          "revisionCreatedBy": 2,
+          "t": "The services to be provided under this contract are described herein.",
+          "variable_id": null,
+          "breakType": null
+        },
+        {
+          "id": "e20083ff-a608-44f9-a42d-01ebe3c53c59",
+          "type": "Run",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "243841bd-aec2-4f44-97b8-c5a77278e789"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:24:57.679000Z",
+          "revisionCreatedBy": 2,
+          "t": "It is further agreed between",
+          "variable_id": null,
+          "breakType": null
+        },
+        {
+          "id": "1d6d6a16-121c-4c16-8221-4cdc53136b4f",
+          "type": "Run",
+          "properties": {},
+          "sequence": 1,
+          "ref": {
+            "textSegmentId": "243841bd-aec2-4f44-97b8-c5a77278e789"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:24:57.679000Z",
+          "revisionCreatedBy": 2,
+          "t": " the parties as follows.",
+          "variable_id": null,
+          "breakType": null
+        },
+        {
+          "id": "1d6d6a16-121c-4c16-8221-4cdc53136b4f",
+          "type": "Run",
+          "properties": {},
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "fe719383-961c-40c4-ac99-f8101558c00e"
+          },
+          "revisionCreatedDateTime": "2019-02-26T18:24:57.679000Z",
+          "revisionCreatedBy": 2,
+          "t": "This is a variant text segment.",
+          "variable_id": null,
+          "breakType": null
+        }
+      ],
+      "headers": [],
+      "footers": [],
+      "playbooks": [
+        {
+          "id": "d121a3c4-986a-4f1d-9c9d-25ef71e9fa16",
+          "confirmation_text": "Approved Confirmation Text",
+          "explanation_text": "Approved Explanation Text",
+          "language_category_id": 1,
+          "language_sub_category_id": 4,
+          "rule_text": "Approved Rule Text",
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "722d4399-12cb-497f-8e29-5f1dc08b0230"
+          }
+        },
+        {
+          "id": "37493499-c837-4db2-b599-e073ae9100cb",
+          "confirmation_text": "Escalation Confirmation Text",
+          "explanation_text": "Escalation Explanation Text",
+          "language_category_id": 3,
+          "language_sub_category_id": 6,
+          "rule_text": "Escalation Rule Text",
+          "sequence": 0,
+          "ref": {
+            "textSegmentId": "722d4399-12cb-497f-8e29-5f1dc08b0230"
+          }
+        },
+        {
+          "id": "37493499-c837-4db2-b599-e073ae9100cb",
+          "confirmation_text": "Escalation Confirmation Text",
+          "explanation_text": "Escalation Explanation Text",
+          "language_category_id": 3,
+          "language_sub_category_id": 6,
+          "rule_text": "Escalation Rule Text",
+          "sequence": 0,
+          "ref": {
+            "variantGroupId": "26b3bca7-178a-4179-aaa4-91ab635cb6a7"
+          }
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "Commercial",
+          "colour_pair": 8
+        },
+        {
+          "id": 2,
+          "name": "Testing",
+          "colour_pair": 8
+        }
+      ],
+      "annotations": [
+        {
+          "id": "7b151348-1650-4e8b-ad1a-1ae6ccabb2bc",
+          "tag_id": 1,
+          "ref": {
+            "textSegmentId": "722d4399-12cb-497f-8e29-5f1dc08b0230"
+          },
+          "creator": "2",
+          "created": "2019-02-26 18:24:57.679000+00:00"
+        }
+      ]
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "name": "dfgfd",
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "UCYD54H"
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "name": "sdf",
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "mW1IT5C"
+    },
+    {
+      "selectedValue": "new",
+      "templateName": "hello",
+      "selectedFile": "",
+      "selectedFileValue": "",
+      "isCheckboxChecked": false,
+      "id": "_tJfqGK"
+    },
+    {
+      "selectedValue": "new",
+      "templateName": "hello world",
+      "selectedFile": "",
+      "selectedFileValue": "",
+      "isCheckboxChecked": false,
+      "id": "YS78izN"
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "lNqH8qI"
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "il8XJMB"
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "GFvW5gH"
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "_7arhby"
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "KuAPR_5"
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "AziJiXZ"
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "yUd2sUL"
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": true,
+      "is_published": true,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "name": "Hello world",
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "q8c20c00-03l3-46r1-a219-0h29l0165274",
+      "updated": "2019-06-25",
+      "version_number": 1,
+      "id": "CPrM1FS"
+    }
+  ],
+  "configuration": [
+    {
+      "client_id": 1,
+      "configuration_type": 1,
+      "id": 1,
+      "name": "Approved",
+      "updated": "2019-02-26T16:18:05.486000Z",
+      "value": "Acceptable Language"
+    },
+    {
+      "client_id": 1,
+      "configuration_type": 1,
+      "id": 2,
+      "name": "Conditional",
+      "updated": "2019-02-26T16:18:05.486000Z",
+      "value": "Conditional Language"
+    },
+    {
+      "client_id": 1,
+      "configuration_type": 1,
+      "id": 3,
+      "name": "Escalation",
+      "updated": "2019-02-26T16:18:05.486000Z",
+      "value": "Escalation Required Language"
+    },
+    {
+      "client_id": 1,
+      "configuration_type": 2,
+      "id": 4,
+      "name": "Approved-Default",
+      "updated": "2019-02-26T16:18:05.486000Z",
+      "value": "Default"
+    },
+    {
+      "client_id": 1,
+      "configuration_type": 2,
+      "id": 5,
+      "name": "Conditional-Default",
+      "updated": "2019-02-26T16:18:05.486000Z",
+      "value": "Default"
+    },
+    {
+      "client_id": 1,
+      "configuration_type": 2,
+      "id": 6,
+      "name": "Escalation-Legal",
+      "updated": "2019-02-26T16:18:05.486000Z",
+      "value": "Escalation to Legal"
+    },
+    {
+      "client_id": 1,
+      "configuration_type": 2,
+      "id": 7,
+      "name": "Escalation-Operations",
+      "updated": "2019-02-26T16:18:05.486000Z",
+      "value": "Escalation to Operations"
+    },
+    {
+      "client_id": 1,
+      "configuration_type": 3,
+      "id": 8,
+      "name": "Blue",
+      "updated": "2019-02-26T16:18:05.486000Z",
+      "value": "#00aaff|#0000ff"
+    }
+  ],
+  "templateList": [
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": false,
+      "is_published": false,
+      "last_published": null,
+      "last_saved": null,
+      "locked_by": null,
+      "name": "Test Template",
+      "template_group_uuid": "722253a3-7823-4b95-a0ca-b4a2029e314d",
+      "uuid": "b8c49d68-03b3-46f1-a079-0f83e0151573",
+      "updated": "2019-02-26T16:18:05.486000Z",
+      "version_number": 0
+    },
+    {
+      "client_id": 1,
+      "is_latest_version": true,
+      "is_locked": false,
+      "is_published": false,
+      "last_published": null,
+      "last_saved": "2019-04-12T17:36:00.027000Z",
+      "locked_by": null,
+      "name": "Resolution and Recovery Amendment",
+      "template_group_uuid": "b071f6f2-e535-462a-b051-97525f945ca3",
+      "uuid": "7c2adf81-c060-43d3-88c6-f7c97b5c6305",
+      "updated": "2019-04-12T17:36:00.027000Z",
+      "version_number": 1
+    }
+  ],
+  "getUser": [
+    "{\"id\": 6, \"last_name\": \"User\", \"first_name\": \"Admin\", \"username\": \"admin@deloitte.ca\", \"is_superuser\": true}"
+  ],
+  "getUser2": {
+    "id": 95,
+    "first_name": "Panxing",
+    "last_name": "admin",
+    "groups": [
+      "Admin"
+    ],
+    "email": "pazhou@deloitte.ca",
+    "name": "Panxing admin",
+    "is_internal": false,
+    "client_id": 1,
+    "is_admin": true
+  },
+  "playbook": {
+    "data": [
+      {
+        "text_segment_uuid": "b709de36-50bf-4429-97d4-cd660ea0ac3a",
+        "playbook_rules": []
+      },
+      {
+        "text_segment_uuid": "8226fbe5-e111-4816-b853-8b7e43410139",
+        "playbook_rules": []
+      },
+      {
+        "text_segment_uuid": "0e88bc61-78e5-463b-892d-9425e19f0396",
+        "playbook_rules": []
+      },
+      {
+        "text_segment_uuid": "a57236e8-6fa6-494a-80c7-41459c85bc50",
+        "playbook_rules": []
+      },
+      {
+        "text_segment_uuid": "722d4399-12cb-497f-8e29-5f1dc08b0230",
+        "playbook_rules": [
+          {
+            "confirmation_text": [
+              "Approved Confirmation Text",
+              "Secondary Approved Confirmation Text"
+            ],
+            "explanation_text": "Explanation Text",
+            "language_category_id": 1,
+            "language_sub_category_id": 1,
+            "rule_text": "Rule Text",
+            "sequence": 0,
+            "text_segment_uuid": "722d4399-12cb-497f-8e29-5f1dc08b0230",
+            "variant_group_uuid": null,
+            "uuid": "d121a3c4-986a-4f1d-9c9d-25ef71e9fa16"
+          },
+          {
+            "confirmation_text": [
+              "Another Confirmation Text"
+            ],
+            "explanation_text": "Conditional Confirmation Text",
+            "language_category_id": 2,
+            "language_sub_category_id": 2,
+            "rule_text": "Different Rule Text",
+            "sequence": 0,
+            "text_segment_uuid": "722d4399-12cb-497f-8e29-5f1dc08b0230",
+            "variant_group_uuid": null,
+            "uuid": "c1968a38-deb2-4089-9018-7a768685ca1d"
+          },
+          {
+            "confirmation_text": [
+              "Yet More Confirmation Text"
+            ],
+            "explanation_text": "Yet More Expalantion Text",
+            "language_category_id": 3,
+            "language_sub_category_id": 3,
+            "rule_text": "Escalation To Legal Confirmation Text",
+            "sequence": 0,
+            "text_segment_uuid": null,
+            "variant_group_uuid": "0e99f6e9-e72e-4015-b114-7fb2d6e6bd61",
+            "uuid": "a0b327ec-7ab2-4bc3-a76a-8d0c1cd76ab6"
+          },
+          {
+            "confirmation_text": [
+              "Random Confirmation Text"
+            ],
+            "explanation_text": "Random Expalantion Text",
+            "language_category_id": 3,
+            "language_sub_category_id": 4,
+            "rule_text": "Escalation To Operations Confirmation Text",
+            "sequence": 0,
+            "text_segment_uuid": null,
+            "variant_group_uuid": "0e99f6e9-e72e-4015-b114-7fb2d6e6bd61",
+            "uuid": "282416e5-c225-4918-b666-d26e63fe8caf"
+          }
+        ]
+      },
+      {
+        "text_segment_uuid": "ac70c9ab-947e-42d9-9b36-17cdea3c7c02",
+        "playbook_rules": []
+      },
+      {
+        "text_segment_uuid": "243841bd-aec2-4f44-97b8-c5a77278e789",
+        "playbook_rules": []
+      },
+      {
+        "text_segment_uuid": "fe719383-961c-40c4-ac99-f8101558c00e",
+        "playbook_rules": []
+      }
+    ],
+    "language_categories": [
+      {
+        "id": 1,
+        "name": "Accept",
+        "description": "Acceptable",
+        "accept": true,
+        "reject": false,
+        "modify": true,
+        "escalate": true
+      },
+      {
+        "id": 2,
+        "name": "Conditional",
+        "description": "Conditional",
+        "accept": true,
+        "reject": true,
+        "modify": false,
+        "escalate": true
+      },
+      {
+        "id": 3,
+        "name": "Escalate",
+        "description": "Escalation",
+        "accept": false,
+        "reject": true,
+        "modify": false,
+        "escalate": true
+      }
+    ],
+    "language_sub_categories": [
+      {
+        "id": 1,
+        "category_id": 1,
+        "name": "Default",
+        "description": "Default"
+      },
+      {
+        "id": 2,
+        "category_id": 2,
+        "name": "Default",
+        "description": "Default"
+      },
+      {
+        "id": 3,
+        "category_id": 3,
+        "name": "Legal",
+        "description": "Escalate to Legal"
+      },
+      {
+        "id": 4,
+        "category_id": 3,
+        "name": "Legal",
+        "description": "Escalate to Operations"
+      }
+    ]
+  }
+}

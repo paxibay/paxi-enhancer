@@ -1,4 +1,4 @@
-import * as React from 'react';
+// import * as React from 'react';
 import { MainSection } from '../../components/template';
 
 function Template() {

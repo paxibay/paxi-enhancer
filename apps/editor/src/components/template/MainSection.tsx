@@ -3,7 +3,7 @@ import React from 'react';
 function MainSection() {
   return (
     <div>
-     Template MainSection
+     Template MainSection aaaa bbbb cccc
     </div>
   );
 }
